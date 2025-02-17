@@ -28,4 +28,4 @@ The main implementation is in the Jupyter Notebook `rnn.ipynb`. The notebook inc
 To predict the answer to a question, you can use the `predict` function as shown below:
 
 ```python
-predict(model, 'What is the largest planet in solar system')
+predict(model, 'What is the largest planet in the solar system?')
